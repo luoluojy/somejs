@@ -3,7 +3,6 @@
  * @author CHENG十
  */
 
-
 const Crawler = require("crawler");
 const schedule = require('node-schedule');
 const baseHref = 'http://www.shibor.org';
