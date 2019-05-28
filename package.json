@@ -1,0 +1,23 @@
+{
+  "name": "somejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoluojy/somejs.git"
+  },
+  "author": "CHENG十",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoluojy/somejs/issues"
+  },
+  "homepage": "https://github.com/luoluojy/somejs#readme",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "node-schedule": "^1.3.2"
+  }
+}
